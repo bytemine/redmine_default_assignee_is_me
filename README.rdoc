@@ -1,3 +1,5 @@
 = redmine_default_assignee_is_me
 
-Description goes here
+edmine plugin to set the assignee to oneself if not otherwise set.
+
+It simply sets ':include_blank => false' in the issues attribute view for the assignee selector.
