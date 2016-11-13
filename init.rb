@@ -3,6 +3,6 @@ Redmine::Plugin.register :redmine_default_assignee_is_me do
   author 'Daniel Rauer, bytemine GmbH'
   description 'Redmine plugin to set the assignee to oneself if not otherwise set'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin://github.com/bytemine/redmine-default-assignee-is-me'
+  url 'https://github.com/bytemine/redmine_default_assignee_is_me'
   author_url 'https://www.bytemine.net'
 end
