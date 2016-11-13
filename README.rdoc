@@ -2,4 +2,4 @@
 
 Redmine plugin to set the assignee to oneself if not otherwise set.
 
-It simply sets ':include_blank => false' in the issues attribute view for the assignee selector.
+It simply sets ':include_blank => false' in the issues attribute view for the assignee selector. Needs small adaption for Redmine 3.3.x
